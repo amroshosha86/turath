@@ -24,7 +24,7 @@ public class JavascriptExecutorTest {
 
 	}
 
-	@Test(priority =0 , enabled = true , alwaysRun = true)
+	@Test(priority = 0 , enabled = true , alwaysRun = true)
 	public void ChildWindows() throws InterruptedException 
 
 	{
