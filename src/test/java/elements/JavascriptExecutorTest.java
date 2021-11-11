@@ -20,11 +20,11 @@ public class JavascriptExecutorTest {
 		driver.manage().window().maximize();
 
 		//driver.get("http://admin-demo.moosocial.com/admin/home/login");
-		driver.get("https://yallakora.com");
+		driver.get("https://Yallakora.com");
 
 	}
 
-	@Test(priority = 0 , enabled = true , alwaysRun = true)
+	@Test(priority = 1 , enabled = true , alwaysRun = true)
 	public void ChildWindows() throws InterruptedException 
 
 	{
